@@ -1,6 +1,5 @@
 # verbose waffle echo lab
 > about the app.
 
-check out my app: http://136.71.106.146
+check out my app: http://
 
-by [barry](https://github.com/barrycumbie)
